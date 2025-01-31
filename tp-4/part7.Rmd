@@ -1,0 +1,2 @@
+## Question 7 :
+L'utilisation de différentes couches personnalisés a rendu le code plus lisible et organisé. Avant, le modèle contenait des répétitions de blocs convolutifs, ce qui rendait le code plus long et plus difficile à suivre. Maintenant, avec la couche personnalisée, ces blocs sont encapsulés dans une seule classe, ce qui simplifie la structure du modèle. Cela facilite la maintenance et la modification du code, car les ajustements nécessaires se font dans la classe de la couche personnalisée plutôt que dans plusieurs parties du modèle.
